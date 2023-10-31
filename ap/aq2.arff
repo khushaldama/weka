@@ -1,0 +1,20 @@
+@relation user
+@attribute age{"<25","26-50",">50"}
+@attribute isStudent{"yes","no"}
+@attribute gender{"Male","Female"}
+@attribute income{"low","medium","high"}
+@attribute purchase_via{"cash","loan"}
+@attribute buy_phone{"sPhone","Iphone","simple"}
+
+@data
+"<25","yes","Male","medium","loan","sPhone"
+"<25","yes","Female","high","cash","Iphone"
+"26-50","no","Male","medium","loan","sPhone"
+"26-50","no","Female","high","loan","Iphone"
+"26-50","no","Male","medium","cash","Iphone"
+"26-50","no","Female","medium","loan","sPhone"
+"26-50","no","Male","low","loan","simple"
+">50","no","Male","high","cash","simple"
+">50","no","Female","medium","loan","simple"
+">50","no","Male","low","loan","simple"
+

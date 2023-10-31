@@ -1,0 +1,14 @@
+@relation stram_predection
+@attribute mainthreesubjectmarks{"G","M","L"}
+@attribute financialbackground{"R","Mid","P"}
+@attribute gender{"He","She"}
+@attribute intrestinfuture{"B","J","O"}
+@attribute stream{"Sci","Comm","Art"}
+
+@data
+"L","Mid","He","J",?
+"M","P","She","B",?
+"L","P","She","J",?
+"M","R","She","O",?
+"G","Mid","He","O",?
+

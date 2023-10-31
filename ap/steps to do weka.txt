@@ -1,0 +1,11 @@
+open file
+in clissify go to choose
+the in tree
+in that go to j48
+then use traning set radio button
+start
+
+to give the prediction---->
+radio button supplied test set
+open the file from location 
+start
