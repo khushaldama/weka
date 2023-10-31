@@ -1,0 +1,21 @@
+@relation stram_predection
+@attribute mainthreesubjectmarks{"G","M","L"}
+@attribute financialbackground{"R","Mid","P"}
+@attribute gender{"He","She"}
+@attribute intrestinfuture{"B","J","O"}
+@attribute stream{"Sci","Comm","Art"}
+
+@data
+"G","Mid","She","J","Sci"
+"M","R","He","B","Sci"
+"L","P","She","J","Art"
+"G","Mid","She","O","Comm"
+"G","R","He","J","Art"
+"L","Mid","She","J","Sci"
+"G","P","She","J","Sci"
+"M","Mid","She","O","Comm"
+"G","P","She","O","Comm"
+"L","Mid","He","J","Sci"
+"G","R","She","B","Art"
+"M","P","She","J","Sci"
+"M","Mid","She","J","Sci"
